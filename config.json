@@ -1,0 +1,6 @@
+{
+    "token" : "your_token",
+    "botId" : "your_bot_id",
+    "prefix" : "r.",
+    "dataUrl" : "mongodb+srv://your_url"
+}
