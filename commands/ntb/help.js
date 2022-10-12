@@ -23,7 +23,7 @@ module.exports = class HelpCommand extends Command {
             r.poke <user> - poke
             r.kill <user> - kill
             r.cry - cry
-            r.кто <keyword> - random user
+            r.who <keyword> - random user
 
             **Love 💖**
 
